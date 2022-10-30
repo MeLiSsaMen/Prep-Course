@@ -1,7 +1,13 @@
 los bucles for tienen una sintaxis unica, similar a la instruccion if, pero un poco mas compleja.
-primero tenemos la palabra clabe for , seguida de un parentesis y luego abrir y cerrar las llaves 
-dentro de estos parentecis necesitamos tres cosas.
-primero debemos declara una variable, esto es sobre lo que se repetira el bucle. entonces tendremos una expresion condicional, en el ciclo continuara sucediendo hasta que esta declaracion sea false. 
+primero tenemos la palabra clave for , seguida de un parentesis y luego abrir y cerrar las llaves 
+dentro de estos parentesis necesitamos tres cosas.
+primero debemos declara una variable, esto es sobre lo que se repetira el bucle. entonces tendremos
+ una expresion condicional, en el ciclo continuara sucediendo hasta que esta declaracion sea false. 
 tercero, incrementaremos nuestra variable. las tres declaraciones estan separadas por un punto y coma.
 
-Operadores logicos "y" (AND)
+Operadores logicos "y" (AND) esta escrito con dos simbolos (&&). esto evaluara ambas expresiones y 
+devolvera verdadero si ambas expresiones son true. si uno o ambos son falso, este operador devolvera false.
+
+El siguente operador "O"("or"). esta escrito con dos barras verticales (||).
+determinara si una de las expresiones es true. devolvera true si una (o ambas) de las expresiones es true .
+devolvera false si AMBAS expresiones son false.

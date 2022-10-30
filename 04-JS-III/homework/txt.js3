@@ -1,0 +1,11 @@
+Arrray: el Array objeto, al igual que con las matrices en otros lengiajes de programacion 
+permite almacenar una coleccion de varios elementos bajo un solo nombre de variable
+y tiene miembros para realizar operaciones de matriz comunes.
+En javascript, las matrices no son primitivas, sino Array objetos con las siguientes 
+caracteristicas principales:
+Las matrices son redimensionables y pueden contener una combinacion de diferentes
+tipos de datos. (cuando estas caracteristicas no son deseables, se debe utilizar matrices 
+tipadas en su lugar).
+Las matrices de javascript comienzan en cero : el primer elemento de una matriz esta en el indice 0, 
+el segundo esta en el indice 1, y asi sucesivamente, y el ultimo elemento esta en el valor
+de la propiedad de la matriz length menos 1.

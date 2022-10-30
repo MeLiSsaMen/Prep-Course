@@ -1,0 +1,16 @@
+clases: en informatica, una clase es  una plantilla para la creacion 
+de objetos de datos segun un modelo predefinido.
+las clases se utilizan para representar entidades o conceptos,
+muchas veces cuando creamos un objeto estamos creando una plantilla. 
+en lugar de copiar esa plantilla una y otra vez,
+javascript nos da acceso a lo que llamamos un constructor o CLASS 
+las clases comparten gran parte de la misma funcionalidad que los objetos normales
+pero tambien se expande mucho en esa funcionalidad.
+las clases son utiles para crear muchos objetos que comparten alguna de las mismas 
+propiedades y metodos (como usuario en un sitio web).
+
+
+Prototype: cada clase tiene una propiedad PROTOTYPE, que luego podemos establecer 
+en metodos:
+los metodos de prototype tienen acceso a la palabra clave this y, al igual que antes, 
+siempre apuntara al objeto (a la izquierda del punto) que lo esta llamando.
